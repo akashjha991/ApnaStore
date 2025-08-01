@@ -21,7 +21,7 @@ export default function Navbar() {
   return (
     <div className='navbar'>
         <div className='nav-logo'>
-            <img  src={logo} alt="Error" />
+{/*             <img  src={logo} alt="Error" /> */}
             <p>ApnaStore</p>
         </div>
 
