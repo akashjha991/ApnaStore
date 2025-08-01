@@ -33,7 +33,7 @@ export default function Footer() {
         <div className='footer-copyright'>
                 <hr />
                 <p>
-                    Copyright @ 2024 - All Rights Are Reserved.
+                    Copyright @ 2025 - All Rights Are Reserved.
                 </p>
             </div>
     </div>
